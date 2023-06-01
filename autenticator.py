@@ -2,6 +2,7 @@ import time
 import pyotp
 import qrcode
 
+#Usado somente a primeira vez para gerar o primeiro codigo
 #print(pyotp.random_base32())
 
 chave_mestra='VWXH5XD2AZITNG5RPR3GZKPIMT5E6WUZ'
@@ -19,4 +20,4 @@ while True:
     if retorno == True:
         print('Acertou "Mizeráviii"')
         break
-    esle: print('Faustau falou: Errrrrrrrooooooouuuuuu')
+    esle: print('Faustau falou: Errrrrrrrooooooouuuu')
