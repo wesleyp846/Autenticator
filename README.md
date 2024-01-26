@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 # Script Autenticador
 
 Este script foi desenvolvido para oferecer uma solução de autenticação em duas etapas em um sistema maior.
